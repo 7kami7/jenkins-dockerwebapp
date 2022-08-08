@@ -1,4 +1,6 @@
 node {
+    
+    label 'primary-ci-pool'
 
     checkout scm
 
